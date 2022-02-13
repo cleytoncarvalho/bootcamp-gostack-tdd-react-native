@@ -4,7 +4,7 @@
 
 :brazil: Projeto parte do bootcamp Gostack da Rocketseat. Usando TDD para desenvolver com React Native.
 
-:toolbox: Used in this project.
+:toolbox: Used in this project:
 
 - React Native
 - Jest
